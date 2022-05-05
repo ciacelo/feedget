@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body { /*opcional pois ira alterar o layout de todo body do site que estiver sendo aplicado*/
+  @apply bg-[#09090A] text-zinc-100; 
+}
