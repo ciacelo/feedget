@@ -3,7 +3,7 @@ Um Widget de feedbacks, para ser integrado a algum SPA que seja preciso receber 
 
 ## 🚀 Quick start
 
-  **Initial install.**
+  **Initial installation.**
 
     ```shell
     yarn
